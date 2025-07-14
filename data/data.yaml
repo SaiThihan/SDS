@@ -1,0 +1,6 @@
+train: C:\Users\SaiThiHan\Desktop\Shan State Day Projects\Snake_Webcam_Detection\data\images\train
+val: C:\Users\SaiThiHan\Desktop\Shan State Day Projects\Snake_Webcam_Detection\data\images\val
+test: C:\Users\SaiThiHan\Desktop\Shan State Day Projects\Snake_Webcam_Detection\data\images\test
+
+nc: 5
+names: ["burmese python", "cobra", "linn mway", "ngan taw kyar", "viper"]
